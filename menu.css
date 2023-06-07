@@ -59,6 +59,10 @@ main{
     transition: 0.3s;
 }
 
+body{
+  overflow-x: hidden;
+}
+
 @media (max-width: 999px){
     body{
         overflow-x: hidden;
