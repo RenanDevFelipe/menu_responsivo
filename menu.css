@@ -30,7 +30,7 @@ nav{
 }
 
 main{
-    background: rgba(3, 0, 12, 0.7) url(/bg_foto1.jpg) no-repeat center center;
+    background: rgba(3, 0, 12, 0.7) url(bg_foto1.jpg) no-repeat center center;
     background-size: cover;
     background-blend-mode: darken;
     height: 92vh;
